@@ -1,7 +1,6 @@
 /* STYLE SECTIONING TAGS */
 body {
  background-color: #DEB3AD; 
- cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
 /* STYLE TEXT */
@@ -88,10 +87,8 @@ li a {
 
 li a:hover:not(.active) {
   background-color: #DE847B;
- cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }
 
 li a.active {
   color: #DEB3AD;
- cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
 }

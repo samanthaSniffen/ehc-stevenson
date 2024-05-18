@@ -1,17 +1,17 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: #DEB3AD; 
+ background-color: #65655E; 
 }
 
 /* STYLE TEXT */
 
 a {
-  color: #DE847B;
+  color: #81B76D;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
-  color: #3B0404;
+  color: #A9E6B8;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -20,7 +20,7 @@ h3 {
 }
 
 h2 {
-  color: #3B0404;
+  color: #A9E6B8;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h1 {
-  color: #3B0404;
+  color: #A9E6B8;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -38,7 +38,7 @@ h1 {
 }
 
 h4 {
-  color: #3B0404;
+  color: #A9E6B8;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -47,7 +47,7 @@ h4 {
 }
 
 p {
-  color:#3B0404;
+  color:#A9E6B8;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
@@ -69,8 +69,8 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid #B95C50;
-  background-color: #B95C50;
+  border: 1px solid #65655E;
+  background-color: #000103;
 }
 
 li {
@@ -79,14 +79,14 @@ li {
 
 li a {
   display: block;
-  color: #DEB3AD;
+  color: #81B76D;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover:not(.active) {
-  background-color: #DE847B;
+  background-color: #65655E;
 }
 
 li a.active {

@@ -1,0 +1,97 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #DEB3AD; 
+ cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
+}
+
+/* STYLE TEXT */
+
+a {
+  color: #DE847B;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+  color: #3B0404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  color: #3B0404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #3B0404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+  color: #3B0404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  color:#3B0404;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* STYLE IMAGES */
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+/* STYLE NAV BAR */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: 1px solid #B95C50;
+  background-color: #B95C50;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #DEB3AD;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #DE847B;
+ cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
+}
+
+li a.active {
+  color: #DEB3AD;
+ cursor:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg'  width='34' height='41' viewport='0 0 100 100' style='fill:black;font-size:20px;'><text y='50%'>🤍</text></svg>") 16 0,auto; /*!emojicursor.app*/
+}

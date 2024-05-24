@@ -69,16 +69,14 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  position: -webkit-sticky; /* Safari */
-  position: sticky;
   background-color: #1F1F1F;
 }
 
-ul li {
+li {
   float: center;
 }
 
-ul li a {
+li a {
   display: block;
   color: #E0E0E0;
   text-align: center;
@@ -86,10 +84,10 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover:not(.active) {
+li a:hover:not(.active) {
   background-color: #63B441;
 }
 
-ul li a.active {
+.active {
   color: #63B441;
 }

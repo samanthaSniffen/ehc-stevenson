@@ -90,7 +90,7 @@ li a:hover:not(.active) {
 */
 
 .topnav {
-  position: sticky;
+  position: relative;
   overflow: hidden;
   background-color: #333;
 }

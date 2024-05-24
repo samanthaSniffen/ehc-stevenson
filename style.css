@@ -125,7 +125,7 @@ li a:hover:not(.active) {
   float: right;
 }
 
-/* Responsive navigation menu (for mobile devices) */
+/* Responsive navigation menu (for mobile devices) 
 @media screen and (max-width: 600px) {
   .topnav a, .topnav-right {
     float: none;
@@ -139,3 +139,4 @@ li a:hover:not(.active) {
     transform: none;
   }
 }
+*/

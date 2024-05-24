@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /flag.txt
+Disallow: /secr3t/

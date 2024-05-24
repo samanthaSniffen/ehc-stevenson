@@ -1,6 +1,6 @@
 /* STYLE SECTIONING TAGS */
 body {
- background-color: #142B12; 
+ background-color: #1F1F1F; 
 }
 
 /* STYLE TEXT */
@@ -69,7 +69,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  border: 1px solid #142B12;
+  border: 1px solid #1F1F1F;
   background-color: #080C0C;
 }
 

@@ -1,3 +1,2 @@
-# hmmm what could be here?
 User-agent: *
 Disallow: /flag.txt

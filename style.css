@@ -21,7 +21,7 @@ h3 {
 h2 {
   color: #E0E0E0;
   text-align: center;
-  margin: center;
+  margin: auto;
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -29,7 +29,7 @@ h2 {
 h1 {
   color: #E0E0E0;
   text-align: center;
-  margin: center;
+  margin: auto;
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -37,7 +37,7 @@ h1 {
 h4 {
   color: #E0E0E0;
   text-align: center;
-  margin: center;
+  margin: auto;
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -45,7 +45,7 @@ h4 {
 p {
   color: #E0E0E0;
   text-align: center;
-  margin: center;
+  margin: auto;
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
 }

@@ -64,21 +64,20 @@ p {
 }
 
 /* STYLE NAV BAR */
-ul {
+ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
   position: fixed;
-  border: 1px solid #1F1F1F;
-  background-color: #3a6926;
+  background-color: #1F1F1F;
 }
 
-li {
-  float: left;
+ul.topnav li {
+  float: center;
 }
 
-li a {
+ul.topnav li a {
   display: block;
   color: #E0E0E0;
   text-align: center;
@@ -86,10 +85,15 @@ li a {
   text-decoration: none;
 }
 
-li a:hover:not(.active) {
+ul.topnav li a:hover:not(.active) {
   background-color: #63B441;
 }
 
-.active {
+ul.topnav li a.active {
   color: #63B441;
+}
+
+@media screen and (max-width: 600px) {
+  ul.topnav li.right, 
+  ul.topnav li {float: none;}
 }

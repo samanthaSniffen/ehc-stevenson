@@ -64,7 +64,7 @@ p {
 }
 
 /* STYLE NAV BAR */
-ul.topnav {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -74,11 +74,11 @@ ul.topnav {
   background-color: #1F1F1F;
 }
 
-ul.topnav li {
+ul li {
   float: center;
 }
 
-ul.topnav li a {
+ul li a {
   display: block;
   color: #E0E0E0;
   text-align: center;
@@ -86,10 +86,10 @@ ul.topnav li a {
   text-decoration: none;
 }
 
-ul.topnav li a:hover:not(.active) {
+ul li a:hover:not(.active) {
   background-color: #63B441;
 }
 
-ul.topnav li a.active {
+ul li a.active {
   color: #63B441;
 }

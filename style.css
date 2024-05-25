@@ -243,11 +243,11 @@ img {
 
 /* eboard pics grid */
 div.gallery {
-  border: 1px solid #ccc;
+  border: 1px solid #63B441;
 }
 
 div.gallery:hover {
-  border: 1px solid #777;
+  border: 1px solid #3A6926;
 }
 
 div.gallery img {
@@ -258,6 +258,7 @@ div.gallery img {
 div.desc {
   padding: 15px;
   text-align: center;
+  color: #E0E0E0;
 }
 
 * {

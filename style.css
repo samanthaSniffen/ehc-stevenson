@@ -268,18 +268,18 @@ text-align:center;
 width:100%;
 margin:1% 0%;
 padding:0.6% 0%;
-color:gray;
+color:e0e0e0;
 font-size:0.8em;
 }
 
 .footer .row a{
 text-decoration:none;
-color:gray;
+color:e0e0e0;
 transition:0.5s;
 }
 
 .footer .row a:hover{
-color:#fff;
+color:#65B540;
 }
 
 .footer .row ul{

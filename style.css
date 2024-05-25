@@ -1,3 +1,5 @@
+/* EHC{CSS_m@kes_$tuff_pr3tty} */
+
 /* STYLE SECTIONING TAGS */
 body {
  background-color: #1F1F1F; 
@@ -49,47 +51,6 @@ p {
   width: 50%;
   font-family: Arial, Helvetica, sans-serif;
 }
-
-/* STYLE IMAGES 
-.center {
-  display: block;
-  margin: center;
-  width: 50%;
-}
-*/
-
-/* STYLE NAV BAR 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  position: sticky;
-  background-color: #1F1F1F;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  display: block;
-  color: #E0E0E0;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover:not(.active) {
-  background-color: #63B441;
-}
-
-.active {
-  background-color: #63B441;
-}
-*/
-
-/* EHC{CSS_m@kes_$tuff_pr3tty} */
 
 .topnav {
   position: relative;

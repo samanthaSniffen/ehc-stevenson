@@ -211,6 +211,7 @@ img {
 /* eboard pics grid */
 div.gallery {
   border: 1px solid #63B441;
+  display: inline-block;
 }
 
 div.gallery:hover {

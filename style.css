@@ -208,6 +208,11 @@ img {
   .prev, .next,.text {font-size: 11px}
 }
 
+
+
+
+
+
 /* eboard pics grid */
 div.gallery {
   border: 1px solid #63B441;
@@ -224,7 +229,7 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 15px;
+  padding: 20px;
   text-align: center;
   color: #E0E0E0;
 }
@@ -257,6 +262,11 @@ div.desc {
   display: table;
   clear: both;
 }
+
+
+
+
+
 
 /* footer */
 body{

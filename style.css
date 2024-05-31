@@ -208,11 +208,6 @@ img {
   .prev, .next,.text {font-size: 11px}
 }
 
-
-
-
-
-
 /* eboard pics grid */
 div.gallery {
   border: 1px solid #63B441;
@@ -262,11 +257,6 @@ div.desc {
   display: table;
   clear: both;
 }
-
-
-
-
-
 
 /* footer */
 body{

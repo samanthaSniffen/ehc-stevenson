@@ -214,7 +214,7 @@ img {
 /* eboard pics grid */
 div.gallery {
   border: 1px solid #63B441;
-  display: inline-block;
+  /*display: inline-block;*/
 }
 
 div.gallery:hover {
@@ -227,7 +227,7 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 20px;
+  padding: 15px;
   text-align: center;
   color: #E0E0E0;
 }
@@ -237,7 +237,7 @@ div.desc {
 }
 
 .responsive {
-  padding: 6px 0;
+  padding: 0 6px;
   float: left;
   width: 24.99999%;
 }

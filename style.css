@@ -222,8 +222,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 300;
-  height: 300;
+  width: 100%;
+  height: auto;
 }
 
 div.desc {
@@ -237,7 +237,7 @@ div.desc {
 }
 
 .responsive {
-  padding: 0 6px;
+  padding: 6px 0;
   float: left;
   width: 24.99999%;
 }

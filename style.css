@@ -208,6 +208,9 @@ img {
   .prev, .next,.text {font-size: 11px}
 }
 
+
+
+
 /* eboard pics grid */
 div.gallery {
   border: 1px solid #63B441;
@@ -219,8 +222,8 @@ div.gallery:hover {
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+  width: 300;
+  height: 300;
 }
 
 div.desc {
@@ -257,6 +260,9 @@ div.desc {
   display: table;
   clear: both;
 }
+
+
+
 
 /* footer */
 body{

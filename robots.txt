@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /notes.html
 Disallow: /secr3t/
+Disallow: /hidden.txt
